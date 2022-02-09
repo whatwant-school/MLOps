@@ -2,6 +2,12 @@
 MLOps
 
 
+## Tools
+
+### Label Studio
+- https://github.com/heartexlabs/label-studio
+
+
 ## Study
 
 ### Full Stack Deep Learning - Spring 2021
